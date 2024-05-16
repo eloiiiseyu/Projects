@@ -15,3 +15,4 @@ Eloise Yu started this project on May 12, 2024.
 
 ## Data analysis steps breakdown
 - Perform EDA on the dataset and visualize the relationships between dependent variables and independent variable (Energy delta)
+- Created correlation matrix to see the coefficient between each variable
