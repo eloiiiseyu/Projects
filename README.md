@@ -1,5 +1,5 @@
 # Renewable Energy Project (WIP)
-Eloise Yu started this project on May 12, 2024.
+
 
 ## Project Goal
 - This goal of this project is to predict renewable energy output by analyzing the relationship between weather and past energy generation.
